@@ -19,7 +19,7 @@
 package vexriscv
 
 import vexriscv.plugin._
-import vexriscv.demo.{GenFull, }
+import vexriscv.demo.{GenFull, ComplexOpPlugin}
 import spinal.core._
 import spinal.lib._
 import vexriscv.ip._
